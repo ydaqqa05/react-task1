@@ -2,7 +2,7 @@ import style from './navbar.module.css'
 function Navbar() {
     return (
       <>
-       <nav className={`${style.bg_navbar} navbar navbar-expand-lg navbar-dark`}>
+       <nav className={`${style.bg_navbar} navbar navbar-expand-lg navbar-dark position-sticky top-0`}>
   <div className="container-fluid py-3">
 
     <a className="navbar-brand fw-bold fs-2 text-white ms-5" href="#">

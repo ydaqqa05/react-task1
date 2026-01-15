@@ -1,0 +1,28 @@
+.bg_hero{
+    background-color: #1abc9c;
+}
+.bg_size{
+    height: 250px;
+    width: 250px;
+}
+.big_size{
+    font-size: 90px;
+}
+.star_divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  } 
+ .line {
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    border-radius: 2px;
+     
+  }
+ .star {
+    color: white;
+    font-size: 50px; 
+  
+  }
