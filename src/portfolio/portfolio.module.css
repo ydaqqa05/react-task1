@@ -1,0 +1,23 @@
+.big_font{
+    font-size: 60px;
+    letter-spacing: 1px;
+    color: #2c3e50;
+}
+.star_divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  } 
+ .line {
+    width: 100px;
+    height: 4px;
+    background-color: #2c3e50;
+    border-radius: 2px;
+     
+  }
+ .star {
+    color: #2c3e50;
+    font-size: 50px; 
+  
+  }
