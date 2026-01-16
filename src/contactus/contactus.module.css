@@ -1,0 +1,39 @@
+.big_font {
+    font-size: 60px;
+ 
+}
+
+.star_divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.line {
+    width: 100px;
+    height: 4px;
+    background-color: #2c3e50; /* غامق لأن الخلفية بيضا */
+    border-radius: 2px;
+}
+
+.star {
+    color: #2c3e50;
+    font-size: 40px;
+}
+.desc{
+    font-size: 12px;
+    color: red;
+}
+.form_control{
+    min-height: 150px !important;
+}
+.download_btn {
+    background:    #1abc9c;
+    border: 2px solid  #1abc9c;
+    color: #1abc9c;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
