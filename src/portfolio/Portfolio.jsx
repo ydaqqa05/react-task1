@@ -9,7 +9,7 @@ import Image6 from './../assets/imgs/submarine.png'
 export default function Portfolio() {
   return (
     <>
-    <div className=' pt-5'>
+    <div className=' py-5'>
         <h1 className={`${style.big_font} pt-5 text-center  `}>Portfolio</h1>
  <div className={`${style.star_divider}`}>
   <div className={`${style.line}`}></div>

@@ -1,0 +1,47 @@
+.about {
+    background-color: #1abc9c;
+}
+
+.big_font {
+    font-size: 60px;
+    letter-spacing: 0.5px;
+}
+
+.star_divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.line {
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.star {
+    color: white;
+    font-size: 40px;
+}
+
+.about_text {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.download_btn {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.download_btn:hover {
+    background-color: white;
+    color: #1abc9c;
+}
