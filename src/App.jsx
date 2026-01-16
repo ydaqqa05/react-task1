@@ -5,6 +5,7 @@ import Portfolio from "./portfolio/Portfolio"
 import About from "./about/About"
 import Contactus from "./contactus/Contactus"
 import Footer from "./footer/Footer"
+import Copy from "./copyright/Copy"
 function App(){
   return <>
   <Navbar/>
@@ -13,6 +14,7 @@ function App(){
 <About/>
 <Contactus/>
 <Footer/>
+<Copy/>
   </>
 }
 export default App
